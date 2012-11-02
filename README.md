@@ -1,4 +1,4 @@
 libless
 =======
 
-Lib-less web 2.0 development.
+Lib-less RIA library.
